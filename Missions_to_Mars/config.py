@@ -1,0 +1,1 @@
+exe_path = 'C:\\Users\\askbe\\GT\\gt-inc-data-pt-05-2020-u-c\\chromedriver.exe'
