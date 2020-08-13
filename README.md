@@ -2,17 +2,18 @@
 
 before running app.py:<br>
 In gitbash:
-> conda activate PythonData
-> "C:\Program Files\MongoDB\Server\4.4\bin\mongod.exe"<br>
+* conda activate PythonData
+* "C:\Program Files\MongoDB\Server\4.4\bin\mongod.exe"
+
 Open MongoDB Compass
 - select "localhost:27017" under recent connections on the left
 - Click "Connect" (green button)
 
-To run app.py:
+To run app.py:<br>
 In gitbash:
-> conda activate PythonData         <!-- if you haven't already -->
-> cd <path to where app.py lives>
-> python app.py
+* conda activate PythonData         <!-- if you haven't already -->
+* cd <path to where app.py lives>
+* python app.py
 ...
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) <!-- user can click on http link to open a new browser -->
 
