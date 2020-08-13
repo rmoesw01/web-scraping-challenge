@@ -1,9 +1,9 @@
 # web-scraping-challenge
 
-before running app.py:
+before running app.py:<br>
 In gitbash:
 > conda activate PythonData
-> "C:\Program Files\MongoDB\Server\4.4\bin\mongod.exe"
+> "C:\Program Files\MongoDB\Server\4.4\bin\mongod.exe"<br>
 Open MongoDB Compass
 - select "localhost:27017" under recent connections on the left
 - Click "Connect" (green button)
