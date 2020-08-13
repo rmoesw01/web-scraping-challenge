@@ -11,11 +11,12 @@ Open MongoDB Compass
 
 To run app.py:<br>
 In gitbash:
-* conda activate PythonData         <!-- if you haven't already -->
+* conda activate PythonData      (if you haven't already)
 * cd <path to where app.py lives>
 * python app.py
 ...
-* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) <!-- user can click on http link to open a new browser -->
+* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)    
+  * (user can click on http link to open a new browser)
 
 Once the browser is open:
 * user can click the scrape button to get the most recent mars data
